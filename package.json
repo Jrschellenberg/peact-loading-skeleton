@@ -1,8 +1,11 @@
 {
-  "name": "react-loading-skeleton",
-  "version": "1.1.1",
+  "name": "preact-loading-skeleton",
+  "version": "1.2.1",
   "license": "MIT",
   "author": "David Tang",
+  "contributors": [
+    "Justin Schellenberg"
+  ],
   "private": false,
   "main": "dist/bundle.js",
   "sideEffects": false,
@@ -15,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dvtng/react-loading-skeleton.git"
+    "url": "https://github.com/Jrschellenberg/peact-loading-skeleton"
   },
   "typings": "./dist/index.d.ts",
   "scripts": {

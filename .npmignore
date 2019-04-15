@@ -4,3 +4,4 @@ stories
 testSetup
 .babelrc
 webpack.config.js
+.idea

@@ -1,4 +1,7 @@
-# react-loading-skeleton
+# peact-loading-skeleton
+
+This is a Port from react-loading-skeleton.
+All Credit goes to original author. To see Project please go [here](https://github.com/dvtng/react-loading-skeleton)
 
 Make beautiful, animated loading skeletons that automatically adapt to your app.
 
