@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import { h, Component } from "preact";
 import { css, keyframes } from "emotion";
 
 export const defaultBaseColor = "#eee";

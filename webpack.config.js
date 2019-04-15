@@ -12,10 +12,10 @@ module.exports = {
   },
 
   externals: {
-    react: {
-      commonjs: "react",
-      commonjs2: "react",
-      amd: "react",
+    preact: {
+      commonjs: "preact",
+      commonjs2: "preact",
+      amd: "preact",
       root: "_"
     }
   },
